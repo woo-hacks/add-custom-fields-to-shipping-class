@@ -2,8 +2,22 @@
 
 [![Build Status](https://travis-ci.com/woo-hacks/woo-add-shipping-class.svg?branch=master)](https://travis-ci.com/woo-hacks/woo-add-shipping-class)
 
-<p><b>Check the plugin code for usage</b></p>
-<p><b>Main code inside -></b> class-custom-woo-shipping-class-fields.php</p>
+<p><b>Check the plugin code for usage.</b></p>
+
+>> Dont get overwhelmed! Most of the file in this repo is related to unit testing or integrated build.
+
+<br/>
+<strong>Following files are all need to get this running : </strong>
+
+```
+woo-add-shipping-class/
+├── class-custom-woo-shipping-class-fields.php   (your intrested code)
+└── init.php                                     (plugin main file)
+
+```
+<hr />
+<h4>Steps -</h4>
+<hr/>
 
 *STEP 1 - Display Field Name in Header*
 ```php
