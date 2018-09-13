@@ -2,7 +2,7 @@
 /**
  * PHPUnit bootstrap file
  *
- * @package 1_Woo_Add_Shipping_Class
+ * @package Woo_Add_Shipping_Class
  */
 
 $_tests_dir = getenv( 'WP_TESTS_DIR' );
