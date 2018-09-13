@@ -4,7 +4,7 @@
 
 <p><b>Check the plugin code for usage.</b></p>
 
->> Dont get overwhelmed! Most of the file in this repo is related to unit testing or integrated build.
+>`Don't get overwhelmed! Most of the file in this repo is related to unit testing or integrated build`.
 
 <br/>
 <strong>Following files are all need to get this running : </strong>
