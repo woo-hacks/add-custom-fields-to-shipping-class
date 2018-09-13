@@ -138,7 +138,7 @@ class Custom_Woo_Shipping_Class_Fields {
 				$data[ $meta_field ] = get_term_meta( $class->term_id, $meta_field, true );
 			}
 
-			// convert back to object format. But this makes a object of stdClass insteaed, which will also work.
+			// convert back to object format. But this makes a object of stdClass instead, which will also work.
 			$classes[ $key ] = (object) $data;
 		}
 		return $classes;
