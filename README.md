@@ -1,6 +1,6 @@
 <h1> HACK #1 - Adding a custom field to shipping class </h1>
 
-[![Build Status](https://travis-ci.com/woo-hacks/woo-add-shipping-class.svg?branch=master)](https://travis-ci.com/woo-hacks/woo-add-shipping-class)
+[![Build Status](https://travis-ci.com/woo-hacks/add-custom-fields-to-shipping-class.svg?branch=master)](https://travis-ci.com/woo-hacks/add-custom-fields-to-shipping-class)
 
 <p><b>Check the plugin code for usage.</b></p>
 
